@@ -70,13 +70,14 @@ No credentials are hardcoded in any script.
 
 Authentication details for accessing X must be provided via **environment variables**.
 
-## TweetScraperR (media posts)
 
+## TweetScraperR (media posts)
 ```r
 Sys.setenv(
   USER = "your_x_username",
   PASS = "your_x_password"
 )
+```
 
 ## TwscrapeR (user replies)
 
@@ -88,7 +89,7 @@ Sys.setenv(
   TW_EMAIL_PASS = "your_email_password",
   TW_COOKIES = "auth_token=...; ct0=..."
 )
-
+```
 
 ## Execution order
 
