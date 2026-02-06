@@ -167,4 +167,4 @@ Reuse is permitted provided appropriate credit is given to the author.
 
 If you use this code or dataset, please cite it as:
 
-Pastora Estébanez, P. (2026). Data collection and analysis pipeline for media reactions on X to Meta’s content moderation policy. GitHub repository and Zenodo archive. DOI.
+Pastora Estebanez, P. (2026). Data collection and analysis pipeline for media reactions on X to Meta’s content moderation policy. GitHub repository and Zenodo archive. DOI.
