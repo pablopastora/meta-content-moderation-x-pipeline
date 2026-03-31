@@ -156,15 +156,16 @@ This repository follows the principle “as open as possible, as closed as neces
 
 ## License
 
-Code: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Code: MIT License
 
-Dataset (content_moderation_meta_ids.csv): CC BY 4.0
+Dataset (content_moderation_meta_ids.csv): Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Reuse is permitted provided appropriate credit is given to the author.
+Reuse of the code is permitted under the terms of the MIT License.
+Reuse of the dataset is permitted provided appropriate credit is given to the author (CC BY 4.0).
 
 
 ## Citation
 
 If you use this code or dataset, please cite it as:
 
-Pastora Estebanez, P. (2026). Data collection and analysis pipeline for media reactions on X to Meta’s content moderation policy. GitHub repository and Zenodo archive. DOI.
+Pastora Estebanez, P. (2026). Data collection and analysis pipeline for media reactions on X to Meta’s content moderation policy. GitHub repository and Zenodo archive. https://doi.org/10.5281/zenodo.18431324 
